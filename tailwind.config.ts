@@ -11,7 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+       
       },
+      boxShadow:{
+        "3xl":"1px 1px 13px"
+      }
     },
   },
   plugins: [],
